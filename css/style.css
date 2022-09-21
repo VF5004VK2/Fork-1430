@@ -117,6 +117,30 @@ ul{
 .member__end-text{
     max-width: 450px;
 }
+.member__finish_texts{
+    display: flex;
+    flex-direction: column;
+    max-width: 661px;
+    align-items: center;
+    margin: auto;
+}
+.member__finish_title{
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 54px;
+    font-family: 'Roboto';
+    text-align: center;
+    color: #692340;
+    max-width: 465px;
+    padding: 113px 0 37px 0;
+}
+.member__finish_text_p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #692340;
+}
 
 
 /* membership end */
